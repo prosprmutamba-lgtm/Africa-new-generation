@@ -1,0 +1,190 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**
+ * ────────────────────────────────────────────────────────────
+ * AFRICA NEW GENERATION (ANG) — DESIGN TOKENS
+ * ────────────────────────────────────────────────────────────
+ * HSL values below are derived from the brand hex colors defined
+ * in tailwind.config.ts (brand.blue.500, brand.gold.400, brand.navy,
+ * brand.gray.light). Kept in sync manually — if you change a hex
+ * value in tailwind.config.ts, update the matching HSL triplet here.
+ *
+ * These variables follow the shadcn/ui convention so every shadcn
+ * component (Button, Card, Dialog, etc.) automatically uses the
+ * Africa New Generation (ANG) palette with zero per-component overrides.
+ * ────────────────────────────────────────────────────────────
+ */
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 224 16% 19%; /* brand.anthracite #282C37 */
+
+    --card: 0 0% 100%;
+    --card-foreground: 224 16% 19%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 224 16% 19%;
+
+    --primary: 216 100% 38%; /* brand.blue.500 #004CC0 */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 42 98% 48%; /* brand.gold #F3AC02 */
+    --secondary-foreground: 224 16% 19%;
+
+    --muted: 220 25% 96%; /* brand.gray.light */
+    --muted-foreground: 224 10% 40%;
+
+    --accent: 42 98% 48%; /* brand.gold, used sparingly as accent */
+    --accent-foreground: 224 16% 19%;
+
+    --destructive: 359 74% 50%; /* brand.red #DE2325 */
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 16% 90%;
+    --input: 220 16% 86%;
+    --ring: 216 100% 38%;
+
+    --radius: 1rem;
+  }
+
+  /*
+   * Dark mode preparation.
+   * Not enabled by default (the NGO brief calls for a bright, light,
+   * "premium humanitarian" look) — but tokens are ready. To activate,
+   * add a `dark` class toggle to <html> (e.g. via a theme provider)
+   * and Tailwind's `dark:` variants will pick these up automatically.
+   */
+  .dark {
+    --background: 209 55% 8%;
+    --foreground: 216 33% 96%;
+
+    --card: 209 50% 11%;
+    --card-foreground: 216 33% 96%;
+
+    --popover: 209 50% 11%;
+    --popover-foreground: 216 33% 96%;
+
+    --primary: 216 100% 62%;
+    --primary-foreground: 224 16% 12%;
+
+    --secondary: 42 79% 55%;
+    --secondary-foreground: 209 67% 10%;
+
+    --muted: 209 30% 16%;
+    --muted-foreground: 210 15% 65%;
+
+    --accent: 42 79% 55%;
+    --accent-foreground: 209 67% 10%;
+
+    --destructive: 0 63% 45%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 209 30% 20%;
+    --input: 209 30% 20%;
+    --ring: 208 70% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-body antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading;
+  }
+
+  /*
+   * Anton (the charter's headline font) ships a single weight. Without this,
+   * classes such as font-bold/font-semibold on a heading would make the browser
+   * fake a bold, which distorts the letterforms.
+   */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .font-heading {
+    font-synthesis-weight: none;
+  }
+
+  /* Respect reduced-motion preference site-wide */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  /* Visible keyboard focus everywhere (accessibility floor) */
+  :focus-visible {
+    @apply outline-none ring-2 ring-brand-blue-500 ring-offset-2 ring-offset-background;
+  }
+}
+
+@layer utilities {
+  /*
+   * SIGNATURE ELEMENT — "the horizon line"
+   * A soft gold gradient band, used at large scale across the base of
+   * every hero image and at small scale (a short solid bar) beside every
+   * SectionHeading eyebrow. It reads as sunrise light meeting a horizon —
+   * a quiet nod to "New Generation" / looking forward — and repeats as
+   * the site's one consistent mark instead of scattered decoration.
+   * Used once per section at most.
+   */
+  .horizon-line {
+    background: linear-gradient(
+      90deg,
+      hsl(var(--secondary) / 0.15) 0%,
+      hsl(var(--secondary)) 50%,
+      hsl(var(--secondary) / 0.15) 100%
+    );
+  }
+
+  .container-padded {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+}
+
+/* Hero text entrance (components/site/hero-carousel.tsx) */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

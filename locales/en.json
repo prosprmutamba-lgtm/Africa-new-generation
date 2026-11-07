@@ -1,0 +1,799 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "programs": "Our Programs",
+    "impactStories": "Impact Stories",
+    "gallery": "Gallery",
+    "makeADifference": "Make a Difference",
+    "contact": "Contact",
+    "donate": "Donate"
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "viewAllPrograms": "View All Programs",
+    "viewAllStories": "View All Stories",
+    "donateNow": "Donate Now",
+    "becomeAPartner": "Become a Partner",
+    "getInvolved": "Get Involved",
+    "backToPrograms": "Back to Programs",
+    "backToStories": "Back to Impact Stories",
+    "backToHome": "Back to Home",
+    "objectives": "Objectives",
+    "activities": "Activities",
+    "targetBeneficiaries": "Target Beneficiaries",
+    "timeline": "Timeline",
+    "photoGallery": "Photo Gallery",
+    "videoGallery": "Video Gallery",
+    "successStories": "Success Stories",
+    "before": "Before",
+    "after": "After",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "thankYou": "Thank you!",
+    "requiredField": "This field is required",
+    "overview": "Overview",
+    "fullProgramPage": "Dedicated program page",
+    "readStory": "Read Story",
+    "watchVideo": "Watch Video",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "all": "All",
+    "photos": "Photos",
+    "videos": "Videos",
+    "skipToContent": "Skip to main content",
+    "search": "Search",
+    "searchPlaceholder": "Search programs, stories, pages...",
+    "noResults": "No results found",
+    "somethingWentWrong": "Something Went Wrong",
+    "somethingWentWrongHint": "An unexpected error occurred. Please try again, or head back to the homepage.",
+    "tryAgain": "Try Again",
+    "openMenu": "Open menu",
+    "navigationMenu": "Navigation menu",
+    "viewPhoto": "View photo",
+    "playVideo": "Play video"
+  },
+  "home": {
+    "seoTitle": "Africa New Generation (ANG) | Refugee-Led Organization in Uganda",
+    "seoDescription": "Africa New Generation (ANG) is a refugee-led organization empowering vulnerable communities through protection, inclusion, education, advocacy and sustainable development in Kyaka II Settlement, Uganda.",
+    "hero": {
+      "eyebrow": "Refugee-Led. Community-Driven.",
+      "headline": "Empowering Refugee-Led Communities Across Africa",
+      "subtitle": "Africa New Generation (ANG) is a refugee-led organization protecting, educating, and uplifting vulnerable communities in Kyaka II Settlement and beyond — because those closest to the challenge are best placed to lead the solution.",
+      "donateButton": "Donate Now",
+      "partnerButton": "Become a Partner",
+      "slides": [
+        {
+          "eyebrow": "Refugee-Led. Community-Driven.",
+          "headline": "Empowering Refugee-Led Communities Across Africa",
+          "subtitle": "Africa New Generation (ANG) is a Refugee Led Organization protecting, educating and uplifting vulnerable communities in uganda and beyond. "
+        },
+        {
+          "eyebrow": "Protection First",
+          "headline": "Every Child Deserves a Safe Path Forward",
+          "subtitle": "Our Child Protection program identifies vulnerable children early and walks with families through reunification, care, and support."
+        },
+        {
+          "eyebrow": "Community-Led Change",
+          "headline": "Built by the community from the community ",
+          "subtitle": "From Refugee saving groups to sustainable agriculture, every Program is shaped directly by the people it serves."
+        }
+      ],
+      "previousSlide": "Previous slide",
+      "nextSlide": "Next slide",
+      "goToSlide": "Go to slide"
+    },
+    "stats": {
+      "eyebrow": "Our Reach",
+      "title": "Our Impact in Numbers",
+      "note": "Figures are illustrative estimates from our current programs and are reviewed and updated regularly.",
+      "livesReached": "Lives Reached",
+      "programsRunning": "Active Programs",
+      "communitiesServed": "Communities Served",
+      "yearsOfService": "Years of Service"
+    },
+    "aboutPreview": {
+      "eyebrow": "Who We Are",
+      "title": "Led by Refugees, Built for the Community",
+      "description": "Africa New Generation (ANG) is a refugee and women-led, community-based organization based in Kyaka II Refugee Settlement, Kyegegwa District, Uganda. ",
+      "cta": "Learn More About Us"
+    },
+    "programsPreview": {
+      "eyebrow": "What We Do",
+      "title": "Our Programs",
+      "subtitle": "Nine focus areas driving lasting, community-led change — from child protection to climate action.",
+      "cta": "View All Programs"
+    },
+    "impactPreview": {
+      "eyebrow": "Real Change",
+      "title": "Impact Stories",
+      "subtitle": "Real stories of transformation from the communities we serve.",
+      "cta": "View All Stories"
+    },
+    "galleryPreview": {
+      "eyebrow": "See Our Work",
+      "title": "Gallery",
+      "subtitle": "Moments from our work on the ground in Kyaka II Settlement and beyond.",
+      "cta": "View Full Gallery"
+    },
+    "partners": {
+      "eyebrow": "Working Together",
+      "title": "Our Partners",
+      "subtitle": "We collaborate with organizations, agencies, and community groups who share our commitment to refugee-led change."
+    },
+    "news": {
+      "eyebrow": "Stay Updated",
+      "title": "Latest News",
+      "items": [
+        {
+          "title": "Africa New Generation (ANG) Expands Child Protection Outreach in Kyaka II",
+          "date": "2026-03-14",
+          "excerpt": "New community-based case workers are now reaching more families across the settlement, strengthening early identification and response for vulnerable children."
+        },
+        {
+          "title": "Women's Savings Groups Reach New Milestone",
+          "date": "2026-02-02",
+          "excerpt": "Members of our women-led savings and loan groups mark another cycle of growth, reinvesting collectively into small businesses across the settlement."
+        },
+        {
+          "title": "New Accessible Learning Space Opens for Children with Disabilities",
+          "date": "2026-01-18",
+          "excerpt": "A newly adapted classroom space is now welcoming children with disabilities, built with direct input from families and disability-led community groups."
+        }
+      ]
+    },
+    "newsletter": {
+      "title": "Stay Connected",
+      "subtitle": "Subscribe to receive updates on our programs and impact.",
+      "placeholder": "Enter your email address",
+      "cta": "Subscribe",
+      "success": "Thank you for subscribing — you'll hear from us soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "testimonials": {
+      "eyebrow": "In Their Words",
+      "title": "Testimonials",
+      "subtitle": "Voices from the community members, partners, and volunteers who work with us.",
+      "items": [
+        {
+          "id": "t1",
+          "quote": "Africa New Generation (ANG) doesn't just deliver aid — they listen first. Every program feels like it was built with us, not just for us.",
+          "name": "Community Member",
+          "role": "Kyaka II Settlement"
+        },
+        {
+          "id": "t2",
+          "quote": "As a partner organization, what stands out is how deeply Africa New Generation (ANG) understands the community's real, day-to-day needs.",
+          "name": "Partner Organization Representative",
+          "role": "Implementing Partner"
+        },
+        {
+          "id": "t3",
+          "quote": "Volunteering with Africa New Generation (ANG) showed me what community-led development actually looks like in practice.",
+          "name": "International Volunteer",
+          "role": "Education Program"
+        },
+        {
+          "id": "t4",
+          "quote": "The team's transparency around how donations are used is what convinced our board to continue supporting this work.",
+          "name": "Corporate Sponsor",
+          "role": "Recurring Donor"
+        }
+      ]
+    }
+  },
+  "about": {
+    "seoTitle": "About Us | Africa New Generation (ANG)",
+    "seoDescription": "Learn about Africa New Generation (ANG)'s story, mission, vision, and the refugee-led leadership team building protection and opportunity in Kyaka II Settlement, Uganda.",
+    "hero": {
+      "eyebrow": "About Africa New Generation (ANG)",
+      "title": "A Refugee-Led Movement for Protection and Opportunity",
+      "subtitle": "Founded by refugees, for refugees — and the communities that host them."
+    },
+    "story": {
+      "eyebrow": "Our Story",
+      "title": "Our Story",
+      "body": [
+        "We were founded refugees who refused to accept that displacement should mean the end of dignity, education, Livelihood and opportunity.   Our name says it all: A New Generation one that leads with compassion, resilience, and durable solutions from within the community. Kyaka II is home to over 139 000 refugees, mostly from the Democratic Republic of Congo. Years of conflict, poverty, and lack of services have left many families vulnerable. We saw children sleeping in markets. We saw persons with disabilities left behind. We saw women and youth with skills but no support. We saw a community with incredible strength, but very little resources.",
+        "In 2019, a group of youth, females, males and community volunteers came together and said: “If no one will do it for us, we will do it ourselves. That is how Africa New Generation (ANG) was born. We started with $0 funding, bicycles, and conversations under trees. We went door to door, listened. We traced families, We mediated conflicts and brought children home. Today, Africa New Generation (ANG) is recognized as one of the most active refugee and women-led organizations in Kyaka II, working in 9 zones with a team of community volunteers, social workers, and peer educators."
+      ]
+    },
+    "mission": {
+      "eyebrow": "Our Purpose",
+      "title": "Our Mission",
+      "body": "To lead the fight against exclusion by empowering Persons with Special Needs ( including vulnerable children, girls, women, and PWDs) and youth with skills, advocacy, and linkages to opportunities that promote self-reliance and sustainable livelihoods.."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "An Africa where persons with special needs and youth live with dignity, independence, and hope ;  building a brighter future through self-reliance and durable solutions."
+    },
+    "values": {
+      "eyebrow": "What Guides Us",
+      "title": "Our Core Values",
+      "items": [
+        {
+          "title": "Dignity",
+          "description": "We treat every person we serve as a whole individual with agency and worth — never as a passive recipient of aid."
+        },
+        {
+          "title": "Inclusion",
+          "description": "Our programs are designed with — not just for — the people they serve, including women, youth, and persons with disabilities at every stage."
+        },
+        {
+          "title": "Community Leadership",
+          "description": "We believe displaced communities are best placed to identify their own needs and lead the solutions that address them."
+        },
+        {
+          "title": "Transparency",
+          "description": "We are accountable to the communities we serve and to our partners and supporters, in how we make decisions and use resources."
+        }
+      ]
+    },
+    "leadership": {
+      "eyebrow": "Our People",
+      "title": "Our Leadership",
+      "subtitle": "A team combining lived experience of displacement with program and community leadership.",
+      "members": [
+        {
+          "name": "Founding Director",
+          "role": "Founding Director",
+          "bio": "Leads Africa New Generation (ANG)'s overall strategy and represents the organization to partners, donors, and government stakeholders.",
+          "photo": "director"
+        },
+        {
+          "name": "Programs Lead",
+          "role": "Head of Programs",
+          "bio": "Oversees the design and delivery of Africa New Generation (ANG)'s nine program areas across the settlement.",
+          "photo": "programs-lead"
+        },
+        {
+          "name": "Protection Lead",
+          "role": "PWDs, Child & Community Protection Lead",
+          "bio": "Coordinates referrals, referrals, psychosocial support for vulnerable children, women and people with disabilities.",
+          "photo": "protection-lead"
+        },
+        {
+          "name": "Operations Lead",
+          "role": "Head of Operations",
+          "bio": "Manages finance, compliance, and day-to-day operations so program teams can focus on communities.",
+          "photo": "operations-lead"
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "eyebrow": "Why Partner With Us",
+      "title": "Why Choose Africa New Generation (ANG)",
+      "points": [
+        {
+          "title": "Rooted in Lived Experience",
+          "description": "Our leadership and staff include people who have themselves navigated displacement — giving our programs a depth of understanding that's difficult to replicate from outside."
+        },
+        {
+          "title": "Community-Led Design",
+          "description": "Every program is shaped through direct consultation with the families and individuals it serves, not designed in isolation and delivered top-down."
+        },
+        {
+          "title": "Proven Reach on the Ground",
+          "description": "We operate directly within Kyaka II Settlement, with established relationships and trust across the community that take years to build."
+        },
+        {
+          "title": "Transparent Partnership",
+          "description": "We report openly on how resources are used and welcome the accountability that comes with genuine partnership."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Join Us in Building a Better Future",
+      "description": "Whether through a donation, a partnership, or your time, there are many ways to support refugee-led change.",
+      "primaryLabel": "Make a Difference",
+      "secondaryLabel": "Contact Us"
+    }
+  },
+  "programs": {
+    "seoTitle": "Our Programs | Africa New Generation (ANG)",
+    "seoDescription": "Explore Africa New Generation (ANG)'s nine program areas — Child Protection, Women Empowerment, Disability Inclusion, Education, Health, Livelihood, Agriculture, Youth Development, and Climate Action.",
+    "hero": {
+      "eyebrow": "What We Do",
+      "title": "Our Programs",
+      "subtitle": "Nine areas of focus, one shared goal: dignity and opportunity for every displaced person we serve."
+    },
+    "intro": {
+      "title": "Community-Led, Needs-Driven",
+      "description": "Each of our nine program areas was shaped directly by the communities we serve, and is delivered by teams who understand those needs firsthand."
+    },
+    "childProtection": {
+      "title": "Child Protection",
+      "shortDescription": "Safeguarding vulnerable children through protection services, psychosocial support, and family reunification.",
+      "description": "Displacement puts children at heightened risk of separation from family, exploitation, and psychological harm. Our Child Protection program identifies vulnerable children early, coordinates case management and referrals, and provides psychosocial support so that every child in Kyaka II Settlement has a safe path forward.",
+      "detail": {
+        "objectives": [
+          "Identify and respond to cases of child abuse, neglect, and exploitation within the settlement",
+          "Reunify separated and unaccompanied children with family wherever possible",
+          "Provide psychosocial support to children affected by trauma and displacement",
+          "Train community members as child protection focal points"
+        ],
+        "activities": [
+          "Community-based case identification and referral pathways",
+          "Individual and group psychosocial support sessions",
+          "Family tracing and reunification support",
+          "Child protection awareness sessions for parents and caregivers",
+          "Safe spaces programming for young children"
+        ],
+        "targetBeneficiaries": "Children under 18 in Kyaka II Settlement who are separated, unaccompanied, at risk of abuse or neglect, or affected by trauma — along with their caregivers and foster families.",
+        "timeline": [
+          {
+            "id": "cp-1",
+            "date": "2021",
+            "title": "Program Launch",
+            "description": "Child protection case management began with a small team of community-based volunteers."
+          },
+          {
+            "id": "cp-2",
+            "date": "2022 – 2023",
+            "title": "Safe Spaces Expansion",
+            "description": "Established dedicated safe spaces for psychosocial support sessions across multiple settlement zones."
+          },
+          {
+            "id": "cp-3",
+            "date": "2024 – Present",
+            "title": "Formal Referral Pathways",
+            "description": "Built structured referral relationships with settlement authorities and specialized service providers."
+          }
+        ],
+        "successStories": [
+          {
+            "id": "cp-s1",
+            "name": "A Caregiver, Kyaka II",
+            "role": "Foster parent",
+            "quote": "When the child protection team helped us through the reunification process, our family finally felt whole again."
+          }
+        ],
+        "ctaTitle": "Help Protect a Child's Future",
+        "ctaDescription": "Your support helps us reach more vulnerable children with the protection and care they need."
+      }
+    },
+    "womenEmpowerment": {
+      "title": "Women Empowerment",
+      "shortDescription": "Economic and social empowerment programs for refugee and host-community women.",
+      "description": "Women carry a disproportionate burden in displacement settings, often as sole caregivers with limited access to income. Our Women Empowerment program builds economic independence through savings groups, vocational training, and leadership development — while creating safe spaces for women to organize and support one another.",
+      "detail": {
+        "objectives": [
+          "Increase women's access to income-generating opportunities",
+          "Build financial literacy and savings capacity through group-based models",
+          "Develop women's leadership within community structures",
+          "Strengthen support networks that reduce isolation and vulnerability"
+        ],
+        "activities": [
+          "Village Savings and Loan Association (VSLA) group formation and training",
+          "Vocational skills training (tailoring, soap-making, hairdressing)",
+          "Leadership and public-speaking workshops",
+          "Peer support and mentorship circles"
+        ],
+        "targetBeneficiaries": "Refugee and host-community women in Kyaka II Settlement, with particular focus on female heads of household and young mothers.",
+        "timeline": [
+          {
+            "id": "we-1",
+            "date": "2021",
+            "title": "First Savings Groups Formed",
+            "description": "Launched the first Village Savings and Loan Associations with a small cohort of women."
+          },
+          {
+            "id": "we-2",
+            "date": "2022 – 2023",
+            "title": "Vocational Training Introduced",
+            "description": "Added structured skills training to help members translate savings into small businesses."
+          },
+          {
+            "id": "we-3",
+            "date": "2024 – Present",
+            "title": "Leadership Track Launched",
+            "description": "Introduced leadership development for group leads to represent women's interests in community decision-making."
+          }
+        ],
+        "successStories": [
+          {
+            "id": "we-s1",
+            "name": "A VSLA Member, Kyaka II",
+            "role": "Small business owner",
+            "quote": "Through our savings group, I started a small shop that now supports my whole family — something I never thought possible after we fled our home."
+          }
+        ],
+        "ctaTitle": "Invest in Women-Led Change",
+        "ctaDescription": "Support that reaches women multiplies — strengthening whole families and communities."
+      }
+    },
+    "disabilityInclusion": {
+      "title": "Disability Inclusion",
+      "shortDescription": "Ensuring persons with disabilities have equal access to protection, services, and opportunity.",
+      "description": "Persons with disabilities in displacement settings are often the most excluded from services, education, and livelihoods. Our Disability Inclusion program works to remove physical, social, and informational barriers — ensuring people with disabilities and their families are full participants in community life, not an afterthought.",
+      "detail": {
+        "objectives": [
+          "Identify persons with disabilities and connect them to appropriate services",
+          "Improve physical accessibility of community spaces and learning environments",
+          "Reduce stigma through community awareness and disability-led advocacy",
+          "Support livelihood opportunities tailored to individual ability and interest"
+        ],
+        "activities": [
+          "Household-level disability identification and needs assessment",
+          "Provision and adaptation of assistive devices where possible",
+          "Accessible learning space development",
+          "Disability-led peer support groups and community awareness sessions"
+        ],
+        "targetBeneficiaries": "Children and adults with physical, sensory, or intellectual disabilities in Kyaka II Settlement, and their families.",
+        "timeline": [
+          {
+            "id": "di-1",
+            "date": "2022",
+            "title": "Community Needs Assessment",
+            "description": "Conducted a settlement-wide assessment to understand the scale and nature of disability-related needs."
+          },
+          {
+            "id": "di-2",
+            "date": "2023",
+            "title": "Accessible Spaces Pilot",
+            "description": "Adapted a first learning space for accessibility, developed with direct input from families."
+          },
+          {
+            "id": "di-3",
+            "date": "2024 – Present",
+            "title": "Peer Support Network",
+            "description": "Established disability-led peer groups to guide program direction and reduce community stigma."
+          }
+        ],
+        "successStories": [
+          {
+            "id": "di-s1",
+            "name": "A Parent, Kyaka II",
+            "role": "Parent of a program participant",
+            "quote": "For the first time, my daughter has a classroom built with her needs in mind — and friends who understand her."
+          }
+        ],
+        "ctaTitle": "Help Build a More Inclusive Community",
+        "ctaDescription": "Your support helps remove barriers that keep people with disabilities from full participation in community life."
+      }
+    },
+    "youthDevelopment": {
+      "title": "Youth Development",
+      "shortDescription": "Mentorship, skills-building, and leadership development for young people.",
+      "description": "Young people in Kyaka II Settlement represent both the population most affected by disrupted education and the community's greatest source of future leadership. Our Youth Development program combines mentorship, skills training, and structured leadership opportunities to help young people build a sense of purpose and direction."
+    },
+    "education": {
+      "title": "Education",
+      "shortDescription": "Expanding access to quality education for refugee and host-community children.",
+      "description": "Education is one of the most powerful tools for breaking cycles of displacement-driven disadvantage. We work to expand access to quality learning — supporting enrollment, providing learning materials, and advocating for children who face barriers to attending school."
+    },
+    "health": {
+      "title": "Health",
+      "shortDescription": "Improving access to essential health services in the settlement.",
+      "description": "Access to basic health services can be inconsistent in settlement environments. Our Health program works to connect families with essential care, supports community health education, and helps address gaps in maternal and child health services."
+    },
+    "livelihood": {
+      "title": "Livelihood",
+      "shortDescription": "Vocational training and income-generating opportunities for families.",
+      "description": "Sustainable income is central to long-term self-reliance. Our Livelihood program provides vocational training and support for small income-generating activities, helping families move from dependency toward stability."
+    },
+    "agriculture": {
+      "title": "Agriculture",
+      "shortDescription": "Sustainable farming initiatives to strengthen food security.",
+      "description": "Many families in Kyaka II Settlement rely on small-scale farming to supplement limited food access. Our Agriculture program introduces sustainable farming techniques and supports access to seeds and tools to strengthen household food security."
+    },
+    "climateAction": {
+      "title": "Climate Action",
+      "shortDescription": "Community-led environmental protection and climate resilience projects.",
+      "description": "Environmental degradation compounds the challenges displaced communities already face. Our Climate Action program supports tree-planting, sustainable land use, and community education on environmental stewardship and climate resilience."
+    },
+    "otherProgramsNote": "This program doesn't yet have a full dedicated page — but our team is actively delivering it in the community. Contact us to learn more.",
+    "cta": {
+      "title": "Support the Program That Matters Most to You",
+      "description": "Every program depends on the generosity of people who believe in refugee-led change.",
+      "primaryLabel": "Donate Now",
+      "secondaryLabel": "Become a Partner"
+    },
+    "videoComingSoon": "Video coming soon"
+  },
+  "impactStories": {
+    "seoTitle": "Impact Stories | Africa New Generation (ANG)",
+    "seoDescription": "Africa New Generation (ANG) is a refugee-led organization dedicated to protection, inclusion, sustainable development and durable solutions to various gaps in humanitarian settings in uganda and beyond.",
+    "hero": {
+      "eyebrow": "Real Change",
+      "title": "Impact Stories",
+      "subtitle": "Stories of resilience and transformation from the people we serve."
+    },
+    "items": [
+      {
+        "slug": "amina-education",
+        "title": "From Missed Classrooms to a Path Forward",
+        "location": "Kyaka II Settlement",
+        "programSlug": "education",
+        "excerpt": "After two years without formal schooling, Amina is back in the classroom — and dreaming about what comes next.",
+        "quote": "I used to think school was something that happened to other children. Now I know it can happen to me too.",
+        "quoteName": "Amina, age 13",
+        "body": [
+          "When Amina's family arrived in Kyaka II Settlement, getting her enrolled in school felt like an impossible task — missing documents, no uniform, and a family focused entirely on survival. For two years, her education was on hold.",
+          "Through Africa New Generation (ANG)'s Education program, our team worked with Amina's family to resolve enrollment barriers, provided basic learning materials, and connected her with a peer support group of other children catching up after displacement.",
+          "Today, Amina attends school regularly and has started talking about becoming a teacher herself one day — so she can help other children the way she was helped."
+        ]
+      },
+      {
+        "slug": "james-livelihood",
+        "title": "Building a Business From Nothing",
+        "location": "Kyaka II Settlement",
+        "programSlug": "livelihood",
+        "excerpt": "A carpentry apprenticeship gave James more than a skill — it gave his family a stable income for the first time since displacement.",
+        "quote": "I learned to build furniture. What I really built was a future for my children.",
+        "quoteName": "James, Livelihood program participant",
+        "body": [
+          "James arrived in Kyaka II Settlement with years of informal carpentry experience but no way to put it to use — no tools, no workshop, no clients.",
+          "Through Africa New Generation (ANG)'s Livelihood program, James received a structured vocational training refresher, a starter set of tools, and support connecting with his first paying customers within the settlement.",
+          "Eighteen months later, James now trains two apprentices of his own and supplies furniture to households across multiple settlement zones."
+        ]
+      },
+      {
+        "slug": "grace-protection",
+        "title": "Finding Family Again",
+        "location": "Kyaka II Settlement",
+        "programSlug": "childProtection",
+        "excerpt": "Separated from her family during their journey, Grace was reunited with her mother after a six-month search led by our protection team.",
+        "quote": "I stopped believing I would ever see my mother again. Then one day, she was standing right in front of me.",
+        "quoteName": "Grace, age 10",
+        "body": [
+          "Grace was separated from her mother during a chaotic border crossing. She arrived in Kyaka II Settlement alone, placed temporarily with a foster family identified through our child protection network.",
+          "Our case workers began a family tracing process, coordinating with protection actors across the region. After six months, Grace's mother was located in a different settlement.",
+          "The reunification process included careful preparation and psychosocial support for both Grace and her mother, ensuring the transition back together was safe and sustainable."
+        ]
+      },
+      {
+        "slug": "peter-disability-inclusion",
+        "title": "A Classroom Built for Him",
+        "location": "Kyaka II Settlement",
+        "programSlug": "disabilityInclusion",
+        "excerpt": "Peter, who uses a wheelchair, had never attended school before an accessible learning space opened near his home.",
+        "quote": "My son comes home every day excited to tell me what he learned. I never imagined this was possible.",
+        "quoteName": "Peter's mother",
+        "body": [
+          "Peter has used a wheelchair since early childhood. For years, the nearest school was physically inaccessible, and his family had largely given up on the idea of formal education for him.",
+          "When Africa New Generation (ANG)'s Disability Inclusion program adapted a nearby learning space — widening doorways, building a ramp, and training teachers on inclusive methods — Peter enrolled for the first time.",
+          "He now attends class daily alongside other children, supported by a peer group that grew from the same program."
+        ]
+      },
+      {
+        "slug": "esther-womens-group",
+        "title": "A Savings Group, A Second Chance",
+        "location": "Kyaka II Settlement",
+        "programSlug": "womenEmpowerment",
+        "excerpt": "Esther joined a Village Savings and Loan Association with nothing to save. A year later, she runs a small tailoring business.",
+        "quote": "We didn't just save money together. We rebuilt our confidence together.",
+        "quoteName": "Esther, VSLA group member",
+        "body": [
+          "As a single mother of four, Esther arrived in Kyaka II Settlement with no stable income and few options. She joined one of Africa New Generation (ANG)'s first Village Savings and Loan Associations, contributing what little she could each week.",
+          "Alongside the savings group, Esther completed a tailoring skills course through our Women Empowerment program and used her first loan cycle to purchase a sewing machine.",
+          "She now takes on regular tailoring work from across the settlement and has become a mentor to newer members of her savings group."
+        ]
+      },
+      {
+        "slug": "moses-agriculture",
+        "title": "From Borrowed Land to Food Security",
+        "location": "Kyaka II Settlement",
+        "programSlug": "agriculture",
+        "excerpt": "With training in sustainable farming techniques, Moses turned a small plot of borrowed land into a reliable food source for his family.",
+        "quote": "We used to worry about every meal. Now, for the first time, we grow enough to share with our neighbors.",
+        "quoteName": "Moses, Agriculture program participant",
+        "body": [
+          "Moses had farmed before displacement, but the small plot available to his family in Kyaka II Settlement seemed too limited to matter. Through Africa New Generation (ANG)'s Agriculture program, he received training in sustainable, space-efficient farming techniques along with a starter kit of seeds and tools.",
+          "Applying new techniques like intercropping and composting, Moses significantly increased his yield within a single growing season.",
+          "His family now has a more reliable food supply, and Moses has begun sharing surplus produce and techniques with neighboring households."
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Every Story Starts With Support Like Yours",
+      "description": "Your donation helps write the next chapter for families across Kyaka II Settlement.",
+      "buttonLabel": "Donate Now"
+    }
+  },
+  "gallery": {
+    "seoTitle": "Gallery | Africa New Generation (ANG)",
+    "seoDescription": "Photos and videos from Africa New Generation (ANG)'s work across Kyaka II Refugee Settlement, Uganda — protection, education, health, livelihoods, and community life.",
+    "hero": {
+      "eyebrow": "See Our Work",
+      "title": "Gallery",
+      "subtitle": "A visual look into our work and the communities we serve."
+    },
+    "categories": {
+      "all": "All",
+      "photos": "Photos",
+      "videos": "Videos"
+    },
+    "emptyState": {
+      "title": "Nothing here yet",
+      "subtitle": "Try a different category."
+    }
+  },
+  "makeADifference": {
+    "seoTitle": "Make a Difference | Africa New Generation (ANG)",
+    "seoDescription": "Donate, volunteer, or partner with Africa New Generation (ANG) to support refugee-led protection, education, and livelihood programs in Kyaka II Settlement, Uganda.",
+    "hero": {
+      "eyebrow": "Get Involved",
+      "title": "Make a Difference",
+      "subtitle": "Your support changes lives. Choose how you'd like to help."
+    },
+    "ways": {
+      "title": "Ways to Help",
+      "subtitle": "Every contribution — of any size — helps sustain programs already changing lives."
+    },
+    "donate": {
+      "title": "Donate Now",
+      "description": "A one-time or recurring gift directly funds protection, education, health, and livelihood programs where they're needed most.",
+      "ctaLabel": "Donate Now"
+    },
+    "volunteer": {
+      "title": "Become a Volunteer",
+      "description": "Share your time and skills — remotely or on the ground — to support our programs and community initiatives.",
+      "ctaLabel": "Apply to Volunteer"
+    },
+    "partner": {
+      "title": "Become a Partner",
+      "description": "Organizations, agencies, and institutions can partner with us to expand program reach and impact.",
+      "ctaLabel": "Discuss a Partnership"
+    },
+    "majorDonor": {
+      "title": "Become a Major Donor",
+      "description": "Make a significant, strategic investment in refugee-led change with a dedicated point of contact on our team.",
+      "ctaLabel": "Get in Touch"
+    },
+    "corporateSponsorship": {
+      "title": "Corporate Sponsorship",
+      "description": "Partner your company with a specific program or initiative, with recognition and regular impact reporting.",
+      "ctaLabel": "Explore Sponsorship"
+    },
+    "paymentOptions": {
+      "title": "How to Give",
+      "subtitle": "Choose the payment method that works best for you."
+    },
+    "bankTransfer": {
+      "title": "Bank Transfer",
+      "description": "For direct bank transfers, please use the account details below or contact our fundraising team for support.",
+      "details": [
+        {
+          "label": "Account Name",
+          "value": "Africa New Generation"
+        },
+        {
+          "label": "Bank Name",
+          "value": "Opportunity Bank"
+        },
+        {
+          "label": "Account Number",
+          "value": "1325508613838"
+        },
+        {
+          "label": "Branch",
+          "value": "Mubende Branch"
+        },
+        {
+          "label": "SWIFT Code",
+          "value": "[---]"
+        }
+      ]
+    },
+    "mobileMoney": {
+      "title": "Mobile Money",
+      "description": "Mobile money donations can be sent using the details below.",
+      "details": [
+        {
+          "label": "Provider",
+          "value": "Airtel Money, MTN Mobile Money]"
+        },
+        {
+          "label": "Account Name",
+          "value": "Gilber Minembo"
+        },
+        {
+          "label": "Mobile Number",
+          "value": "+256 789 969 22 / +256 753 516 216"
+        }
+      ]
+    },
+    "fundraisingTeam": {
+      "title": "Contact Our Fundraising Team",
+      "description": "For major gifts, partnerships, or corporate sponsorship, reach out directly and our team will follow up personally.",
+      "ctaLabel": "Contact Us"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "id": "faq-1",
+          "question": "How is my donation used?",
+          "answer": "Donations directly fund our nine program areas — protection, education, health, livelihoods, and more — based on where community needs are greatest at the time."
+        },
+        {
+          "id": "faq-2",
+          "question": "Can I donate to a specific program?",
+          "answer": "Yes. Contact our fundraising team to discuss directing your gift toward a specific program, such as Child Protection or Women Empowerment."
+        },
+        {
+          "id": "faq-3",
+          "question": "Do you accept international donations?",
+          "answer": "Yes, we welcome donations from supporters around the world via bank transfer. Contact our fundraising team for guidance on the best method for your location."
+        },
+        {
+          "id": "faq-4",
+          "question": "How can my organization become a partner?",
+          "answer": "We welcome partnerships with NGOs, agencies, businesses, and institutions. Use the \"Become a Partner\" option above or contact us directly to start the conversation."
+        },
+        {
+          "id": "faq-5",
+          "question": "Can I volunteer remotely?",
+          "answer": "Yes — we welcome remote volunteers for skills-based support such as grant writing, design, and translation, alongside on-the-ground volunteering opportunities."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "seoTitle": "Contact Us | Africa New Generation (ANG)",
+    "seoDescription": "Get in touch with Africa New Generation (ANG) — phone, email, WhatsApp, and our address in Kyaka II Refugee Settlement, Kyegegwa District, Uganda.",
+    "hero": {
+      "eyebrow": "Get in Touch",
+      "title": "Contact Us",
+      "subtitle": "We'd love to hear from you."
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "thankYou": "Thank you! We've received your message and will respond as soon as possible.",
+      "sendAnother": "Send another message",
+      "genericError": "Something went wrong. Please try again, or reach us directly by phone or email.",
+      "errors": {
+        "name": "Please enter your full name",
+        "email": "Please enter a valid email address",
+        "subject": "Please enter a subject",
+        "message": "Message should be at least 10 characters"
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "phone": "Phone",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "address": "Address",
+      "socialMedia": "Follow Us"
+    },
+    "map": {
+      "title": "Find Us",
+      "note": "Map location is approximate to Kyaka II Refugee Settlement, Kyegegwa District.",
+      "openInGoogleMaps": "Open in Google Maps"
+    }
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "Page Not Found",
+    "subtitle": "The page you're looking for may have been moved or no longer exists.",
+    "cta": "Back to Home"
+  },
+  "footer": {
+    "description": "Africa New Generation (ANG) is a refugee-led organization dedicated to protection, inclusion, and sustainable development in Western Uganda.",
+    "quickLinks": "Quick Links",
+    "programs": "Programs",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us",
+    "newsletterCta": "Subscribe to our newsletter",
+    "copyright": "© {year} Africa New Generation (ANG). All rights reserved.",
+    "credit": "Website by"
+  },
+  "seo": {
+    "defaultTitle": "Africa New Generation (ANG) | Refugee-Led Organization in Uganda",
+    "defaultDescription": "Africa New Generation (ANG) is a refugee-led organization empowering vulnerable communities through protection, inclusion, education, advocacy and sustainable development in Kyaka II Settlement, Uganda.",
+    "titleTemplate": "%s | Africa New Generation (ANG)"
+  }
+}

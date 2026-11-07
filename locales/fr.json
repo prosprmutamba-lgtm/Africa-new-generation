@@ -1,0 +1,799 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "programs": "Nos Programmes",
+    "impactStories": "Histoires d'Impact",
+    "gallery": "Galerie",
+    "makeADifference": "Faire une Différence",
+    "contact": "Contact",
+    "donate": "Faire un Don"
+  },
+  "common": {
+    "readMore": "Lire la Suite",
+    "learnMore": "En Savoir Plus",
+    "viewAll": "Voir Tout",
+    "viewAllPrograms": "Voir Tous les Programmes",
+    "viewAllStories": "Voir Toutes les Histoires",
+    "donateNow": "Faire un Don",
+    "becomeAPartner": "Devenir Partenaire",
+    "getInvolved": "S'impliquer",
+    "backToPrograms": "Retour aux Programmes",
+    "backToStories": "Retour aux Histoires d'Impact",
+    "backToHome": "Retour à l'Accueil",
+    "objectives": "Objectifs",
+    "activities": "Activités",
+    "targetBeneficiaries": "Bénéficiaires Ciblés",
+    "timeline": "Chronologie",
+    "photoGallery": "Galerie Photos",
+    "videoGallery": "Galerie Vidéos",
+    "successStories": "Histoires de Réussite",
+    "before": "Avant",
+    "after": "Après",
+    "loading": "Chargement...",
+    "submit": "Envoyer",
+    "sending": "Envoi en cours...",
+    "thankYou": "Merci !",
+    "requiredField": "Ce champ est obligatoire",
+    "overview": "Aperçu",
+    "fullProgramPage": "Page dédiée du programme",
+    "readStory": "Lire l'Histoire",
+    "watchVideo": "Regarder la Vidéo",
+    "close": "Fermer",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "all": "Tout",
+    "photos": "Photos",
+    "videos": "Vidéos",
+    "skipToContent": "Passer au contenu principal",
+    "search": "Rechercher",
+    "searchPlaceholder": "Rechercher des programmes, histoires, pages...",
+    "noResults": "Aucun résultat trouvé",
+    "somethingWentWrong": "Une Erreur s'est Produite",
+    "somethingWentWrongHint": "Une erreur inattendue s'est produite. Veuillez réessayer ou retourner à la page d'accueil.",
+    "tryAgain": "Réessayer",
+    "openMenu": "Ouvrir le menu",
+    "navigationMenu": "Menu de navigation",
+    "viewPhoto": "Voir la photo",
+    "playVideo": "Regarder la vidéo"
+  },
+  "home": {
+    "seoTitle": "Africa New Generation (ANG) | Organisation Dirigée par des Réfugiés en Ouganda",
+    "seoDescription": "Africa New Generation (ANG) est une organisation dirigée par des réfugiés qui autonomise les communautés vulnérables à travers la protection, l'inclusion, l'éducation, le plaidoyer et le développement durable dans le camp de Kyaka II, en Ouganda.",
+    "hero": {
+      "eyebrow": "Dirigée par des Réfugiés. Portée par la Communauté.",
+      "headline": "Autonomiser les Communautés Dirigées par des Réfugiés à Travers l'Afrique",
+      "subtitle": "Africa New Generation (ANG) est une organisation dirigée par des réfugiés qui protège, éduque et soutient les communautés vulnérables dans le camp de Kyaka II et au-delà — parce que ceux qui sont le plus proches du défi sont les mieux placés pour mener la solution.",
+      "donateButton": "Faire un Don",
+      "partnerButton": "Devenir Partenaire",
+      "slides": [
+        {
+          "eyebrow": "Dirigée par des Réfugiés. Portée par la Communauté.",
+          "headline": "Autonomiser les communautés de réfugiés et d'accueil à travers l'Afrique",
+          "subtitle": " Africa New Generation (ANG) est une organisation dirigée par les réfugiés qui protège, éduque et éleva les communautés vulnérables en Ouganda et au-delà.."
+        },
+        {
+          "eyebrow": "La Protection d'Abord",
+          "headline": "Chaque Enfant Mérite un Chemin Sûr Vers l'Avenir",
+          "subtitle": "Notre programme de Protection de l'Enfance identifie précocement les enfants vulnérables et accompagne les familles à travers la réunification, les soins et le soutien."
+        },
+        {
+          "eyebrow": "Un Changement Mené par la Communauté",
+          "headline": "Construit Par la Communauté, Pour la Communauté",
+          "subtitle": "Des groupes de sauvetage des réfugiés à l'agriculture durable, chaque programme est façonné directement par les personnes qu'il sert."
+        }
+      ],
+      "previousSlide": "Diapositive précédente",
+      "nextSlide": "Diapositive suivante",
+      "goToSlide": "Aller à la diapositive"
+    },
+    "stats": {
+      "eyebrow": "Notre Portée",
+      "title": "Notre Impact en Chiffres",
+      "note": "Les chiffres sont des estimations illustratives issues de nos programmes actuels et sont revus et mis à jour régulièrement.",
+      "livesReached": "Vies Touchées",
+      "programsRunning": "Programmes Actifs",
+      "communitiesServed": "Communautés Servies",
+      "yearsOfService": "Années de Service"
+    },
+    "aboutPreview": {
+      "eyebrow": "Qui Sommes-Nous",
+      "title": "Dirigée par des réfugiés, construite pour la communauté, ",
+      "description": " Africa New Generation (ANG) renforce la dignité, la protection et les opportunités pour les personnes ayant des besoins spéciaux en Ouganda et au-delà. Nous pensons que les personnes qui comprennent le mieux les défis sont les meilleures pour y répondre.",
+      "cta": "En Savoir Plus Sur Nous"
+    },
+    "programsPreview": {
+      "eyebrow": "Ce Que Nous Faisons",
+      "title": "Nos Programmes",
+      "subtitle": "Neuf domaines d'action pour un changement durable mené par la communauté — de la protection de l'enfance à l'action climatique.",
+      "cta": "Voir Tous les Programmes"
+    },
+    "impactPreview": {
+      "eyebrow": "Un Vrai Changement",
+      "title": "Histoires d'Impact",
+      "subtitle": "De vraies histoires de transformation des communautés que nous servons.",
+      "cta": "Voir Toutes les Histoires"
+    },
+    "galleryPreview": {
+      "eyebrow": "Découvrez Notre Travail",
+      "title": "Galerie",
+      "subtitle": "Des moments de notre travail sur le terrain dans le camp de Kyaka II et au-delà.",
+      "cta": "Voir la Galerie Complète"
+    },
+    "partners": {
+      "eyebrow": "Travailler Ensemble",
+      "title": "Nos Partenaires",
+      "subtitle": "Nous collaborons avec des organisations, des agences et des groupes communautaires qui partagent notre engagement envers un changement dirigé par les réfugiés."
+    },
+    "news": {
+      "eyebrow": "Restez Informé",
+      "title": "Actualités Récentes",
+      "items": [
+        {
+          "title": "Africa New Generation (ANG) Étend sa Sensibilisation à la Protection de l'Enfance à Kyaka II",
+          "date": "2026-03-14",
+          "excerpt": "De nouveaux travailleurs sociaux communautaires atteignent désormais davantage de familles à travers le camp, renforçant l'identification précoce et la réponse pour les enfants vulnérables."
+        },
+        {
+          "title": "Les Groupes d'Épargne des Femmes Atteignent une Nouvelle Étape",
+          "date": "2026-02-02",
+          "excerpt": "Les membres de nos groupes d'épargne et de crédit dirigés par des femmes célèbrent un nouveau cycle de croissance, réinvestissant collectivement dans de petites entreprises à travers le camp."
+        },
+        {
+          "title": "Un Nouvel Espace d'Apprentissage Accessible Ouvre pour les Enfants Handicapés",
+          "date": "2026-01-18",
+          "excerpt": "Un espace de classe nouvellement adapté accueille désormais des enfants handicapés, construit avec la contribution directe des familles et des groupes communautaires dirigés par des personnes handicapées."
+        }
+      ]
+    },
+    "newsletter": {
+      "title": "Restez Connecté",
+      "subtitle": "Abonnez-vous pour recevoir des mises à jour sur nos programmes et notre impact.",
+      "placeholder": "Entrez votre adresse e-mail",
+      "cta": "S'abonner",
+      "success": "Merci de vous être abonné — vous aurez bientôt de nos nouvelles.",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "testimonials": {
+      "eyebrow": "Dans Leurs Mots",
+      "title": "Témoignages",
+      "subtitle": "Les voix des membres de la communauté, partenaires et bénévoles qui travaillent avec nous.",
+      "items": [
+        {
+          "id": "t1",
+          "quote": "Africa New Generation (ANG) ne se contente pas de fournir de l'aide — ils écoutent d'abord. Chaque programme semble avoir été construit avec nous, pas seulement pour nous.",
+          "name": "Membre de la Communauté",
+          "role": "Camp de Kyaka II"
+        },
+        {
+          "id": "t2",
+          "quote": "En tant qu'organisation partenaire, ce qui se distingue, c'est à quel point Africa New Generation (ANG) comprend profondément les besoins réels et quotidiens de la communauté.",
+          "name": "Représentant d'une Organisation Partenaire",
+          "role": "Partenaire de Mise en Œuvre"
+        },
+        {
+          "id": "t3",
+          "quote": "Faire du bénévolat avec Africa New Generation (ANG) m'a montré à quoi ressemble réellement un développement mené par la communauté.",
+          "name": "Bénévole International",
+          "role": "Programme Éducation"
+        },
+        {
+          "id": "t4",
+          "quote": "La transparence de l'équipe sur l'utilisation des dons est ce qui a convaincu notre conseil de continuer à soutenir ce travail.",
+          "name": "Sponsor d'Entreprise",
+          "role": "Donateur Récurrent"
+        }
+      ]
+    }
+  },
+  "about": {
+    "seoTitle": "À Propos | Africa New Generation (ANG)",
+    "seoDescription": "Découvrez l'histoire, la mission, la vision d'Africa New Generation (ANG) et l'équipe de direction dirigée par des réfugiés qui construit la protection et les opportunités dans le camp de Kyaka II, en Ouganda.",
+    "hero": {
+      "eyebrow": "À Propos d'Africa New Generation (ANG)",
+      "title": "Un Mouvement Dirigé par des Réfugiés pour la Protection et l'Opportunité",
+      "subtitle": "Fondée par des réfugiés, pour les réfugiés — et les communautés qui les accueillent."
+    },
+    "story": {
+      "eyebrow": "Notre Histoire",
+      "title": "Notre Histoire",
+      "body": [
+        "Nous avons été fondés par des réfugiés qui ont refusé d'accepter que le déplacement signifie la fin de la dignité, de l'éducation, des moyens de subsistance et des opportunités. Notre nom dit tout: Une Nouvelle Génération, celle qui dirige avec compassion, résilience et des solutions durables venant de la communauté elle-même. Kyaka II abrite plus de 139 000 réfugiés, principalement originaires de la République Démocratique du Congo. Des années de conflit, de pauvreté et de manque de services ont laissé de nombreuses familles vulnérables. Nous avons vu des enfants dormir dans les marchés. Nous avons vu des personnes handicapées laissées pour compte. Nous avons vu des femmes et des jeunes avec des compétences mais sans soutien. Nous avons vu une communauté d'une force incroyable, mais avec très peu de ressources. ",
+        "En 2019, un groupe de jeunes, de femmes, d'hommes et de bénévoles communautaires s'est réuni et a dit: « Si personne ne le fera pour nous, nous le ferons nous-mêmes. » C'est ainsi qu'est née  Africa New Generation (ANG). Nous avons commencé avec 0$ de financement, des vélos et des conversations sous les arbres. Nous avons fait du porte-à-porte, nous avons écouté. Nous avons retrouvé des familles, nous avons mené des médiations et ramené des enfants à la maison. Aujourd'hui,  Africa New Generation (ANG) est reconnue comme l'une des organisations les plus actives dirigées par des réfugiés et des femmes à Kyaka II, travaillant dans 9 zones avec une équipe de bénévoles communautaires, de travailleurs sociaux et de pairs éducateurs."
+      ]
+    },
+    "mission": {
+      "eyebrow": "Notre Objectif",
+      "title": "Notre Mission",
+      "body": "Diriger la lutte contre l'exclusion en responsabilisant les personnes ayant des besoins spéciaux (y compris les enfants vulnérables, les filles, les femmes et les personnes handicapées) et les jeunes avec des compétences, un plaidoyer et des liens avec des opportunités qui favorisent l'autonomie et des moyens de subsistance durables."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "body": "Une Afrique où les personnes ayant des besoins spéciaux et les jeunes vivent avec dignité, indépendance et espoir ; construire un avenir meilleur grâce à l'autonomie et à des solutions durables."
+    },
+    "values": {
+      "eyebrow": "Ce Qui Nous Guide",
+      "title": "Nos Valeurs Fondamentales",
+      "items": [
+        {
+          "title": "Dignité",
+          "description": "Nous traitons chaque personne que nous servons comme un individu à part entière, doté d'autonomie et de valeur — jamais comme un simple bénéficiaire passif de l'aide."
+        },
+        {
+          "title": "Inclusion",
+          "description": "Nos programmes sont conçus avec — et pas seulement pour — les personnes qu'ils servent, en incluant les femmes, les jeunes et les personnes handicapées à chaque étape."
+        },
+        {
+          "title": "Leadership Communautaire",
+          "description": "Nous croyons que les communautés déplacées sont les mieux placées pour identifier leurs propres besoins et diriger les solutions qui y répondent."
+        },
+        {
+          "title": "Transparence",
+          "description": "Nous sommes responsables envers les communautés que nous servons ainsi qu'envers nos partenaires et donateurs, dans notre façon de prendre des décisions et d'utiliser les ressources."
+        }
+      ]
+    },
+    "leadership": {
+      "eyebrow": "Notre Équipe",
+      "title": "Notre Direction",
+      "subtitle": "Une équipe alliant expérience vécue du déplacement et leadership de programme et communautaire.",
+      "members": [
+        {
+          "name": "Directeur Fondateur",
+          "role": "Directeur Fondateur",
+          "bio": "Dirige la stratégie globale d'Africa New Generation (ANG) et représente l'organisation auprès des partenaires, donateurs et parties prenantes gouvernementales.",
+          "photo": "director"
+        },
+        {
+          "name": "Responsable des Programmes",
+          "role": "Chef des Programmes",
+          "bio": "Supervise la conception et la mise en œuvre des neuf domaines de programme d'Africa New Generation (ANG) à travers le camp.",
+          "photo": "programs-lead"
+        },
+        {
+          "name": "Responsable de la Protection",
+          "role": "PWDs, Responsable de la Protection de l'Enfance et de la Communauté",
+          "bio": "Coordonne les référencements, les orientations et le soutien psychosocial pour les enfants vulnérables, les femme avec les personnes handicapée",
+          "photo": "protection-lead"
+        },
+        {
+          "name": "Responsable des Opérations",
+          "role": "Chef des Opérations",
+          "bio": "Gère les finances, la conformité et les opérations quotidiennes afin que les équipes de programme puissent se concentrer sur les communautés.",
+          "photo": "operations-lead"
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "eyebrow": "Pourquoi Nous Choisir",
+      "title": "Pourquoi Choisir Africa New Generation (ANG)",
+      "points": [
+        {
+          "title": "Ancrée dans l'Expérience Vécue",
+          "description": "Notre direction et notre personnel incluent des personnes ayant elles-mêmes vécu le déplacement — offrant à nos programmes une profondeur de compréhension difficile à reproduire de l'extérieur."
+        },
+        {
+          "title": "Conception Menée par la Communauté",
+          "description": "Chaque programme est façonné par une consultation directe avec les familles et les individus qu'il sert, et non conçu isolément puis imposé du haut vers le bas."
+        },
+        {
+          "title": "Présence Éprouvée sur le Terrain",
+          "description": "Nous opérons directement au sein du camp de Kyaka II, avec des relations établies et une confiance communautaire qui prennent des années à construire."
+        },
+        {
+          "title": "Partenariat Transparent",
+          "description": "Nous rendons compte ouvertement de l'utilisation des ressources et accueillons favorablement la responsabilité qui accompagne un véritable partenariat."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Rejoignez-Nous pour Construire un Avenir Meilleur",
+      "description": "Que ce soit par un don, un partenariat ou votre temps, il existe de nombreuses façons de soutenir un changement dirigé par les réfugiés.",
+      "primaryLabel": "Faire une Différence",
+      "secondaryLabel": "Nous Contacter"
+    }
+  },
+  "programs": {
+    "seoTitle": "Nos Programmes | Africa New Generation (ANG)",
+    "seoDescription": "Découvrez les neuf domaines de programme d'Africa New Generation (ANG) — Protection de l'Enfance, Autonomisation des Femmes, Inclusion des Personnes Handicapées, Éducation, Santé, Moyens de Subsistance, Agriculture, Développement de la Jeunesse et Action Climatique.",
+    "hero": {
+      "eyebrow": "Ce Que Nous Faisons",
+      "title": "Nos Programmes",
+      "subtitle": "Neuf domaines d'action, un seul objectif commun : la dignité et l'opportunité pour chaque personne déplacée que nous servons."
+    },
+    "intro": {
+      "title": "Mené par la Communauté, Guidé par les Besoins",
+      "description": "Chacun de nos neuf domaines de programme a été façonné directement par les communautés que nous servons, et est mis en œuvre par des équipes qui comprennent ces besoins de première main."
+    },
+    "childProtection": {
+      "title": "Protection de l'Enfance",
+      "shortDescription": "Protéger les enfants vulnérables grâce à des services de protection, un soutien psychosocial et la réunification familiale.",
+      "description": "Le déplacement expose les enfants à un risque accru de séparation familiale, d'exploitation et de traumatisme psychologique. Notre programme de Protection de l'Enfance identifie précocement les enfants vulnérables, coordonne la gestion des cas et les orientations, et fournit un soutien psychosocial afin que chaque enfant du camp de Kyaka II ait une voie sûre à suivre.",
+      "detail": {
+        "objectives": [
+          "Identifier et répondre aux cas de maltraitance, de négligence et d'exploitation d'enfants au sein du camp",
+          "Réunifier les enfants séparés et non accompagnés avec leur famille dans la mesure du possible",
+          "Fournir un soutien psychosocial aux enfants touchés par le traumatisme et le déplacement",
+          "Former des membres de la communauté en tant que points focaux de protection de l'enfance"
+        ],
+        "activities": [
+          "Identification des cas et parcours d'orientation à base communautaire",
+          "Séances de soutien psychosocial individuel et de groupe",
+          "Recherche familiale et soutien à la réunification",
+          "Séances de sensibilisation à la protection de l'enfance pour les parents et tuteurs",
+          "Programmes d'espaces sûrs pour les jeunes enfants"
+        ],
+        "targetBeneficiaries": "Les enfants de moins de 18 ans du camp de Kyaka II qui sont séparés, non accompagnés, à risque de maltraitance ou de négligence, ou touchés par un traumatisme — ainsi que leurs tuteurs et familles d'accueil.",
+        "timeline": [
+          {
+            "id": "cp-1",
+            "date": "2021",
+            "title": "Lancement du Programme",
+            "description": "La gestion des cas de protection de l'enfance a débuté avec une petite équipe de bénévoles communautaires."
+          },
+          {
+            "id": "cp-2",
+            "date": "2022 – 2023",
+            "title": "Expansion des Espaces Sûrs",
+            "description": "Mise en place d'espaces sûrs dédiés aux séances de soutien psychosocial dans plusieurs zones du camp."
+          },
+          {
+            "id": "cp-3",
+            "date": "2024 – Aujourd'hui",
+            "title": "Parcours d'Orientation Formalisés",
+            "description": "Établissement de relations d'orientation structurées avec les autorités du camp et des prestataires de services spécialisés."
+          }
+        ],
+        "successStories": [
+          {
+            "id": "cp-s1",
+            "name": "Une Tutrice, Kyaka II",
+            "role": "Famille d'accueil",
+            "quote": "Lorsque l'équipe de protection de l'enfance nous a aidés dans le processus de réunification, notre famille s'est enfin sentie complète."
+          }
+        ],
+        "ctaTitle": "Aidez à Protéger l'Avenir d'un Enfant",
+        "ctaDescription": "Votre soutien nous aide à atteindre davantage d'enfants vulnérables avec la protection et les soins dont ils ont besoin."
+      }
+    },
+    "womenEmpowerment": {
+      "title": "Autonomisation des Femmes",
+      "shortDescription": "Programmes d'autonomisation économique et sociale pour les femmes réfugiées et des communautés hôtes.",
+      "description": "Les femmes portent un fardeau disproportionné dans les contextes de déplacement, souvent en tant que seules responsables de famille avec un accès limité aux revenus. Notre programme d'Autonomisation des Femmes construit l'indépendance économique à travers des groupes d'épargne, des formations professionnelles et le développement du leadership — tout en créant des espaces sûrs permettant aux femmes de s'organiser et de se soutenir mutuellement.",
+      "detail": {
+        "objectives": [
+          "Accroître l'accès des femmes à des opportunités génératrices de revenus",
+          "Renforcer la culture financière et la capacité d'épargne grâce à des modèles de groupe",
+          "Développer le leadership des femmes au sein des structures communautaires",
+          "Renforcer les réseaux de soutien qui réduisent l'isolement et la vulnérabilité"
+        ],
+        "activities": [
+          "Formation et constitution de groupes d'épargne et de crédit villageois (VSLA)",
+          "Formation aux compétences professionnelles (couture, savonnerie, coiffure)",
+          "Ateliers de leadership et de prise de parole en public",
+          "Cercles de soutien par les pairs et de mentorat"
+        ],
+        "targetBeneficiaries": "Les femmes réfugiées et des communautés hôtes du camp de Kyaka II, avec une attention particulière portée aux femmes chefs de famille et aux jeunes mères.",
+        "timeline": [
+          {
+            "id": "we-1",
+            "date": "2021",
+            "title": "Premiers Groupes d'Épargne Formés",
+            "description": "Lancement des premières associations d'épargne et de crédit villageois avec une petite cohorte de femmes."
+          },
+          {
+            "id": "we-2",
+            "date": "2022 – 2023",
+            "title": "Introduction de la Formation Professionnelle",
+            "description": "Ajout d'une formation structurée aux compétences pour aider les membres à transformer l'épargne en petites entreprises."
+          },
+          {
+            "id": "we-3",
+            "date": "2024 – Aujourd'hui",
+            "title": "Lancement du Parcours de Leadership",
+            "description": "Introduction du développement du leadership pour les responsables de groupe afin de représenter les intérêts des femmes dans la prise de décision communautaire."
+          }
+        ],
+        "successStories": [
+          {
+            "id": "we-s1",
+            "name": "Une Membre VSLA, Kyaka II",
+            "role": "Propriétaire de petite entreprise",
+            "quote": "Grâce à notre groupe d'épargne, j'ai ouvert une petite boutique qui soutient désormais toute ma famille — quelque chose que je n'aurais jamais cru possible après avoir fui notre foyer."
+          }
+        ],
+        "ctaTitle": "Investissez dans un Changement Mené par les Femmes",
+        "ctaDescription": "Le soutien qui atteint les femmes se multiplie — renforçant des familles et des communautés entières."
+      }
+    },
+    "disabilityInclusion": {
+      "title": "Inclusion des Personnes Handicapées",
+      "shortDescription": "Garantir un accès égal à la protection, aux services et aux opportunités pour les personnes handicapées.",
+      "description": "Les personnes handicapées dans les contextes de déplacement sont souvent les plus exclues des services, de l'éducation et des moyens de subsistance. Notre programme d'Inclusion des Personnes Handicapées s'efforce d'éliminer les barrières physiques, sociales et informationnelles — garantissant que les personnes handicapées et leurs familles participent pleinement à la vie communautaire, sans être reléguées au second plan.",
+      "detail": {
+        "objectives": [
+          "Identifier les personnes handicapées et les orienter vers les services appropriés",
+          "Améliorer l'accessibilité physique des espaces communautaires et des environnements d'apprentissage",
+          "Réduire la stigmatisation grâce à la sensibilisation communautaire et au plaidoyer mené par les personnes handicapées",
+          "Soutenir des opportunités de moyens de subsistance adaptées aux capacités et intérêts individuels"
+        ],
+        "activities": [
+          "Identification des besoins liés au handicap au niveau des ménages",
+          "Fourniture et adaptation d'appareils d'assistance lorsque possible",
+          "Développement d'espaces d'apprentissage accessibles",
+          "Groupes de soutien par les pairs dirigés par des personnes handicapées et séances de sensibilisation communautaire"
+        ],
+        "targetBeneficiaries": "Les enfants et adultes présentant un handicap physique, sensoriel ou intellectuel dans le camp de Kyaka II, ainsi que leurs familles.",
+        "timeline": [
+          {
+            "id": "di-1",
+            "date": "2022",
+            "title": "Évaluation des Besoins Communautaires",
+            "description": "Réalisation d'une évaluation à l'échelle du camp pour comprendre l'ampleur et la nature des besoins liés au handicap."
+          },
+          {
+            "id": "di-2",
+            "date": "2023",
+            "title": "Pilote d'Espaces Accessibles",
+            "description": "Adaptation d'un premier espace d'apprentissage pour l'accessibilité, développé avec la contribution directe des familles."
+          },
+          {
+            "id": "di-3",
+            "date": "2024 – Aujourd'hui",
+            "title": "Réseau de Soutien par les Pairs",
+            "description": "Mise en place de groupes de pairs dirigés par des personnes handicapées pour orienter le programme et réduire la stigmatisation communautaire."
+          }
+        ],
+        "successStories": [
+          {
+            "id": "di-s1",
+            "name": "Une Mère, Kyaka II",
+            "role": "Mère d'une participante au programme",
+            "quote": "Pour la première fois, ma fille a une salle de classe conçue en tenant compte de ses besoins — et des amis qui la comprennent."
+          }
+        ],
+        "ctaTitle": "Aidez à Construire une Communauté Plus Inclusive",
+        "ctaDescription": "Votre soutien aide à éliminer les barrières qui empêchent les personnes handicapées de participer pleinement à la vie communautaire."
+      }
+    },
+    "youthDevelopment": {
+      "title": "Développement de la Jeunesse",
+      "shortDescription": "Mentorat, renforcement des compétences et développement du leadership pour les jeunes.",
+      "description": "Les jeunes du camp de Kyaka II représentent à la fois la population la plus touchée par l'interruption de l'éducation et la plus grande source de leadership futur pour la communauté. Notre programme de Développement de la Jeunesse combine mentorat, formation aux compétences et opportunités structurées de leadership pour aider les jeunes à construire un sens du but et de la direction."
+    },
+    "education": {
+      "title": "Éducation",
+      "shortDescription": "Élargir l'accès à une éducation de qualité pour les enfants réfugiés et des communautés hôtes.",
+      "description": "L'éducation est l'un des outils les plus puissants pour briser les cycles de désavantage liés au déplacement. Nous travaillons à élargir l'accès à un apprentissage de qualité — en soutenant l'inscription, en fournissant du matériel pédagogique et en plaidant pour les enfants confrontés à des obstacles à la scolarisation."
+    },
+    "health": {
+      "title": "Santé",
+      "shortDescription": "Améliorer l'accès aux services de santé essentiels dans le camp.",
+      "description": "L'accès aux services de santé de base peut être inégal dans les environnements de camps. Notre programme de Santé s'efforce de connecter les familles aux soins essentiels, soutient l'éducation communautaire à la santé et aide à combler les lacunes dans les services de santé maternelle et infantile."
+    },
+    "livelihood": {
+      "title": "Moyens de Subsistance",
+      "shortDescription": "Formation professionnelle et opportunités génératrices de revenus pour les familles.",
+      "description": "Un revenu durable est essentiel à l'autonomie à long terme. Notre programme de Moyens de Subsistance offre une formation professionnelle et un soutien aux petites activités génératrices de revenus, aidant les familles à passer de la dépendance à la stabilité."
+    },
+    "agriculture": {
+      "title": "Agriculture",
+      "shortDescription": "Initiatives agricoles durables pour renforcer la sécurité alimentaire.",
+      "description": "De nombreuses familles du camp de Kyaka II dépendent de la petite agriculture pour compléter un accès limité à la nourriture. Notre programme d'Agriculture introduit des techniques agricoles durables et soutient l'accès aux semences et aux outils pour renforcer la sécurité alimentaire des ménages."
+    },
+    "climateAction": {
+      "title": "Action Climatique",
+      "shortDescription": "Projets communautaires de protection de l'environnement et de résilience climatique.",
+      "description": "La dégradation environnementale aggrave les défis auxquels les communautés déplacées sont déjà confrontées. Notre programme d'Action Climatique soutient la plantation d'arbres, l'utilisation durable des terres et l'éducation communautaire à la gestion de l'environnement et à la résilience climatique."
+    },
+    "otherProgramsNote": "Ce programme n'a pas encore de page dédiée complète — mais notre équipe le met activement en œuvre au sein de la communauté. Contactez-nous pour en savoir plus.",
+    "cta": {
+      "title": "Soutenez le Programme Qui Vous Tient le Plus à Cœur",
+      "description": "Chaque programme dépend de la générosité de personnes qui croient en un changement mené par les réfugiés.",
+      "primaryLabel": "Faire un Don",
+      "secondaryLabel": "Devenir Partenaire"
+    },
+    "videoComingSoon": "Vidéo à venir"
+  },
+  "impactStories": {
+    "seoTitle": "Histoires d'Impact | Africa New Generation (ANG)",
+    "seoDescription": " Africa New Generation (ANG) est une organisation dirigée par les réfugiés qui se consacre à la protection, à l'inclusion, au développement durable et à des solutions durables aux diverses lacunes dans les milieux humanitaires en Ouganda et au-delà.",
+    "hero": {
+      "eyebrow": "Un Vrai Changement",
+      "title": "Histoires d'Impact",
+      "subtitle": "Histoires de résilience et de transformation des personnes que nous servons."
+    },
+    "items": [
+      {
+        "slug": "amina-education",
+        "title": "Des Salles de Classe Manquées à un Chemin Vers l'Avenir",
+        "location": "Camp de Kyaka II",
+        "programSlug": "education",
+        "excerpt": "Après deux ans sans scolarité formelle, Amina est de retour en classe — et rêve déjà de la suite.",
+        "quote": "Je pensais que l'école était quelque chose qui arrivait aux autres enfants. Maintenant je sais qu'elle peut aussi m'arriver.",
+        "quoteName": "Amina, 13 ans",
+        "body": [
+          "Lorsque la famille d'Amina est arrivée dans le camp de Kyaka II, l'inscrire à l'école semblait une tâche impossible — documents manquants, pas d'uniforme, et une famille entièrement concentrée sur la survie. Pendant deux ans, son éducation a été mise en suspens.",
+          "Grâce au programme Éducation d'Africa New Generation (ANG), notre équipe a travaillé avec la famille d'Amina pour résoudre les obstacles à l'inscription, a fourni du matériel pédagogique de base, et l'a mise en relation avec un groupe de soutien par les pairs d'autres enfants rattrapant leur retard après le déplacement.",
+          "Aujourd'hui, Amina fréquente l'école régulièrement et a commencé à parler de devenir enseignante elle-même un jour — pour pouvoir aider d'autres enfants comme elle a été aidée."
+        ]
+      },
+      {
+        "slug": "james-livelihood",
+        "title": "Construire une Entreprise à Partir de Rien",
+        "location": "Camp de Kyaka II",
+        "programSlug": "livelihood",
+        "excerpt": "Un apprentissage en menuiserie a donné à James bien plus qu'une compétence — il a donné à sa famille un revenu stable pour la première fois depuis le déplacement.",
+        "quote": "J'ai appris à fabriquer des meubles. Ce que j'ai vraiment construit, c'est un avenir pour mes enfants.",
+        "quoteName": "James, participant au programme Moyens de Subsistance",
+        "body": [
+          "James est arrivé dans le camp de Kyaka II avec des années d'expérience informelle en menuiserie mais aucun moyen de la mettre à profit — pas d'outils, pas d'atelier, pas de clients.",
+          "Grâce au programme Moyens de Subsistance d'Africa New Generation (ANG), James a reçu une remise à niveau de formation professionnelle structurée, un premier jeu d'outils, et un soutien pour établir ses premiers clients payants au sein du camp.",
+          "Dix-huit mois plus tard, James forme désormais deux de ses propres apprentis et fournit des meubles aux ménages de plusieurs zones du camp."
+        ]
+      },
+      {
+        "slug": "grace-protection",
+        "title": "Retrouver sa Famille",
+        "location": "Camp de Kyaka II",
+        "programSlug": "childProtection",
+        "excerpt": "Séparée de sa famille pendant leur voyage, Grace a été réunie avec sa mère après une recherche de six mois menée par notre équipe de protection.",
+        "quote": "J'avais cessé de croire que je reverrais un jour ma mère. Puis un jour, elle se tenait juste devant moi.",
+        "quoteName": "Grace, 10 ans",
+        "body": [
+          "Grace a été séparée de sa mère lors d'un passage de frontière chaotique. Elle est arrivée seule dans le camp de Kyaka II, placée temporairement dans une famille d'accueil identifiée par notre réseau de protection de l'enfance.",
+          "Nos travailleurs sociaux ont entamé un processus de recherche familiale, en coordination avec les acteurs de la protection dans la région. Après six mois, la mère de Grace a été localisée dans un camp différent.",
+          "Le processus de réunification a inclus une préparation minutieuse et un soutien psychosocial pour Grace et sa mère, garantissant que la transition vers la vie commune se fasse en toute sécurité et de manière durable."
+        ]
+      },
+      {
+        "slug": "peter-disability-inclusion",
+        "title": "Une Salle de Classe Conçue Pour Lui",
+        "location": "Camp de Kyaka II",
+        "programSlug": "disabilityInclusion",
+        "excerpt": "Peter, qui utilise un fauteuil roulant, n'avait jamais été scolarisé avant l'ouverture d'un espace d'apprentissage accessible près de chez lui.",
+        "quote": "Mon fils rentre chaque jour à la maison, impatient de me raconter ce qu'il a appris. Je n'aurais jamais imaginé que cela soit possible.",
+        "quoteName": "La mère de Peter",
+        "body": [
+          "Peter utilise un fauteuil roulant depuis sa petite enfance. Pendant des années, l'école la plus proche était physiquement inaccessible, et sa famille avait largement abandonné l'idée d'une éducation formelle pour lui.",
+          "Lorsque le programme d'Inclusion des Personnes Handicapées d'Africa New Generation (ANG) a adapté un espace d'apprentissage voisin — en élargissant les portes, en construisant une rampe et en formant les enseignants à des méthodes inclusives — Peter s'est inscrit pour la première fois.",
+          "Il assiste désormais aux cours quotidiennement aux côtés d'autres enfants, soutenu par un groupe de pairs issu du même programme."
+        ]
+      },
+      {
+        "slug": "esther-womens-group",
+        "title": "Un Groupe d'Épargne, une Seconde Chance",
+        "location": "Camp de Kyaka II",
+        "programSlug": "womenEmpowerment",
+        "excerpt": "Esther a rejoint une association d'épargne et de crédit villageois sans rien à épargner. Un an plus tard, elle dirige une petite entreprise de couture.",
+        "quote": "Nous n'avons pas seulement épargné de l'argent ensemble. Nous avons reconstruit notre confiance ensemble.",
+        "quoteName": "Esther, membre du groupe VSLA",
+        "body": [
+          "Mère célibataire de quatre enfants, Esther est arrivée dans le camp de Kyaka II sans revenu stable et avec peu d'options. Elle a rejoint l'une des premières associations d'épargne et de crédit villageois d'Africa New Generation (ANG), contribuant chaque semaine ce qu'elle pouvait.",
+          "En parallèle du groupe d'épargne, Esther a suivi une formation en couture dans le cadre de notre programme d'Autonomisation des Femmes et a utilisé son premier cycle de prêt pour acheter une machine à coudre.",
+          "Elle accepte désormais régulièrement des travaux de couture de l'ensemble du camp et est devenue mentor pour les nouveaux membres de son groupe d'épargne."
+        ]
+      },
+      {
+        "slug": "moses-agriculture",
+        "title": "D'une Terre Empruntée à la Sécurité Alimentaire",
+        "location": "Camp de Kyaka II",
+        "programSlug": "agriculture",
+        "excerpt": "Grâce à une formation aux techniques agricoles durables, Moses a transformé une petite parcelle de terre empruntée en une source de nourriture fiable pour sa famille.",
+        "quote": "Nous avions l'habitude de nous inquiéter pour chaque repas. Maintenant, pour la première fois, nous cultivons assez pour partager avec nos voisins.",
+        "quoteName": "Moses, participant au programme Agriculture",
+        "body": [
+          "Moses cultivait la terre avant le déplacement, mais la petite parcelle disponible pour sa famille dans le camp de Kyaka II semblait trop limitée pour compter. Grâce au programme Agriculture d'Africa New Generation (ANG), il a reçu une formation aux techniques agricoles durables et économes en espace, ainsi qu'un kit de démarrage de semences et d'outils.",
+          "En appliquant de nouvelles techniques comme la culture intercalaire et le compostage, Moses a considérablement augmenté son rendement en une seule saison de culture.",
+          "Sa famille dispose désormais d'un approvisionnement alimentaire plus fiable, et Moses a commencé à partager son surplus de production et ses techniques avec les ménages voisins."
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Chaque Histoire Commence par un Soutien Comme le Vôtre",
+      "description": "Votre don aide à écrire le prochain chapitre pour les familles du camp de Kyaka II.",
+      "buttonLabel": "Faire un Don"
+    }
+  },
+  "gallery": {
+    "seoTitle": "Galerie | Africa New Generation (ANG)",
+    "seoDescription": "Photos et vidéos du travail d'Africa New Generation (ANG) à travers le camp de réfugiés de Kyaka II, en Ouganda — protection, éducation, santé, moyens de subsistance et vie communautaire.",
+    "hero": {
+      "eyebrow": "Découvrez Notre Travail",
+      "title": "Galerie",
+      "subtitle": "Un aperçu visuel de notre travail et des communautés que nous servons."
+    },
+    "categories": {
+      "all": "Tout",
+      "photos": "Photos",
+      "videos": "Vidéos"
+    },
+    "emptyState": {
+      "title": "Rien ici pour le moment",
+      "subtitle": "Essayez une autre catégorie."
+    }
+  },
+  "makeADifference": {
+    "seoTitle": "Faire une Différence | Africa New Generation (ANG)",
+    "seoDescription": "Faites un don, devenez bénévole ou partenaire d'Africa New Generation (ANG) pour soutenir les programmes de protection, d'éducation et de moyens de subsistance dirigés par des réfugiés dans le camp de Kyaka II, en Ouganda.",
+    "hero": {
+      "eyebrow": "S'impliquer",
+      "title": "Faire une Différence",
+      "subtitle": "Votre soutien change des vies. Choisissez comment vous souhaitez aider."
+    },
+    "ways": {
+      "title": "Façons d'Aider",
+      "subtitle": "Chaque contribution — quelle que soit sa taille — aide à soutenir des programmes qui changent déjà des vies à travers le camp de Kyaka II."
+    },
+    "donate": {
+      "title": "Faire un Don",
+      "description": "Un don unique ou récurrent finance directement les programmes de protection, d'éducation, de santé et de moyens de subsistance là où ils sont le plus nécessaires.",
+      "ctaLabel": "Faire un Don"
+    },
+    "volunteer": {
+      "title": "Devenir Bénévole",
+      "description": "Partagez votre temps et vos compétences — à distance ou sur le terrain — pour soutenir nos programmes et initiatives communautaires.",
+      "ctaLabel": "Postuler comme Bénévole"
+    },
+    "partner": {
+      "title": "Devenir Partenaire",
+      "description": "Les organisations, agences et institutions peuvent s'associer à nous pour élargir la portée et l'impact des programmes.",
+      "ctaLabel": "Discuter d'un Partenariat"
+    },
+    "majorDonor": {
+      "title": "Devenir un Grand Donateur",
+      "description": "Réalisez un investissement stratégique important dans un changement mené par les réfugiés, avec un point de contact dédié au sein de notre équipe.",
+      "ctaLabel": "Nous Contacter"
+    },
+    "corporateSponsorship": {
+      "title": "Parrainage d'Entreprise",
+      "description": "Associez votre entreprise à un programme ou une initiative spécifique, avec reconnaissance et rapports d'impact réguliers.",
+      "ctaLabel": "Explorer le Parrainage"
+    },
+    "paymentOptions": {
+      "title": "Comment Donner",
+      "subtitle": "Choisissez le mode de paiement qui vous convient le mieux."
+    },
+    "bankTransfer": {
+      "title": "Virement Bancaire",
+      "description": "Pour les virements bancaires directs, veuillez utiliser les coordonnées ci-dessous ou contacter notre équipe de collecte de fonds pour obtenir de l'aide.",
+      "details": [
+        {
+          "label": "Nom du Compte",
+          "value": "Africa New Generation"
+        },
+        {
+          "label": "Nom de la Banque",
+          "value": "Opportunity Bank"
+        },
+        {
+          "label": "Numéro de Compte",
+          "value": "1325508613838"
+        },
+        {
+          "label": "Branch Name",
+          "value": "Mubende Branch"
+        },
+        {
+          "label": "Code SWIFT",
+          "value": "[---]"
+        }
+      ]
+    },
+    "mobileMoney": {
+      "title": "Mobile Money",
+      "description": "Les dons par mobile money peuvent être envoyés en utilisant les coordonnées ci-dessous.",
+      "details": [
+        {
+          "label": "Opérateur",
+          "value": "Airtel Money , MTN Mobile Money]"
+        },
+        {
+          "label": "Nom du Compte",
+          "value": "Gilbert Manembo"
+        },
+        {
+          "label": "Numéro Mobile",
+          "value": "+256 789 969 22 / +256 753 516 216"
+        }
+      ]
+    },
+    "fundraisingTeam": {
+      "title": "Contacter Notre Équipe de Collecte de Fonds",
+      "description": "Pour les dons majeurs, les partenariats ou le parrainage d'entreprise, contactez-nous directement et notre équipe assurera un suivi personnalisé.",
+      "ctaLabel": "Nous Contacter"
+    },
+    "faq": {
+      "title": "Questions Fréquentes",
+      "items": [
+        {
+          "id": "faq-1",
+          "question": "Comment mon don est-il utilisé ?",
+          "answer": "Les dons financent directement nos neuf domaines de programme — protection, éducation, santé, moyens de subsistance et plus encore — en fonction des besoins communautaires les plus importants à un moment donné."
+        },
+        {
+          "id": "faq-2",
+          "question": "Puis-je faire un don à un programme spécifique ?",
+          "answer": "Oui. Contactez notre équipe de collecte de fonds pour discuter de la manière de diriger votre don vers un programme spécifique, comme la Protection de l'Enfance ou l'Autonomisation des Femmes."
+        },
+        {
+          "id": "faq-3",
+          "question": "Acceptez-vous les dons internationaux ?",
+          "answer": "Oui, nous accueillons les dons de sympathisants du monde entier par virement bancaire. Contactez notre équipe de collecte de fonds pour des conseils sur la meilleure méthode selon votre emplacement."
+        },
+        {
+          "id": "faq-4",
+          "question": "Comment mon organisation peut-elle devenir partenaire ?",
+          "answer": "Nous accueillons les partenariats avec des ONG, des agences, des entreprises et des institutions. Utilisez l'option « Devenir Partenaire » ci-dessus ou contactez-nous directement pour entamer la conversation."
+        },
+        {
+          "id": "faq-5",
+          "question": "Puis-je faire du bénévolat à distance ?",
+          "answer": "Oui — nous accueillons des bénévoles à distance pour un soutien basé sur les compétences comme la rédaction de subventions, le design et la traduction, en plus des opportunités de bénévolat sur le terrain."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "seoTitle": "Contact | Africa New Generation (ANG)",
+    "seoDescription": "Contactez Africa New Generation (ANG) — téléphone, e-mail, WhatsApp et notre adresse dans le camp de réfugiés de Kyaka II, district de Kyegegwa, Ouganda.",
+    "hero": {
+      "eyebrow": "Contactez-Nous",
+      "title": "Contactez-Nous",
+      "subtitle": "Nous serions ravis de vous entendre."
+    },
+    "form": {
+      "title": "Envoyez-Nous un Message",
+      "name": "Nom Complet",
+      "email": "Adresse E-mail",
+      "phone": "Numéro de Téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "thankYou": "Merci ! Nous avons bien reçu votre message et vous répondrons dès que possible.",
+      "sendAnother": "Envoyer un autre message",
+      "genericError": "Une erreur s'est produite. Veuillez réessayer, ou contactez-nous directement par téléphone ou e-mail.",
+      "errors": {
+        "name": "Veuillez saisir votre nom complet",
+        "email": "Veuillez saisir une adresse e-mail valide",
+        "subject": "Veuillez saisir un sujet",
+        "message": "Le message doit contenir au moins 10 caractères"
+      }
+    },
+    "info": {
+      "title": "Coordonnées",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "whatsapp": "WhatsApp",
+      "address": "Adresse",
+      "socialMedia": "Suivez-Nous"
+    },
+    "map": {
+      "title": "Nous Trouver",
+      "note": "L'emplacement de la carte est approximatif par rapport au camp de réfugiés de Kyaka II, district de Kyegegwa.",
+      "openInGoogleMaps": "Ouvrir dans Google Maps"
+    }
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "Page Introuvable",
+    "subtitle": "La page que vous recherchez a peut-être été déplacée ou n'existe plus.",
+    "cta": "Retour à l'Accueil"
+  },
+  "footer": {
+    "description": "Africa New Generation (ANG) est une organisation dirigée par des réfugiés, dédiée à la protection, l'inclusion et le développement durable dans l'Ouest de l'Ouganda.",
+    "quickLinks": "Liens Rapides",
+    "programs": "Programmes",
+    "contactUs": "Contactez-Nous",
+    "followUs": "Suivez-Nous",
+    "newsletterCta": "Abonnez-vous à notre newsletter",
+    "copyright": "© {year} Africa New Generation (ANG). Tous droits réservés.",
+    "credit": "Site web par"
+  },
+  "seo": {
+    "defaultTitle": "Africa New Generation (ANG) | Organisation Dirigée par des Réfugiés en Ouganda",
+    "defaultDescription": "Africa New Generation (ANG) est une organisation dirigée par des réfugiés qui autonomise les communautés vulnérables à travers la protection, l'inclusion, l'éducation, le plaidoyer et le développement durable dans le camp de Kyaka II, en Ouganda.",
+    "titleTemplate": "%s | Africa New Generation (ANG)"
+  }
+}
