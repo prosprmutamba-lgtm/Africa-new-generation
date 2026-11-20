@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { MIME, readMediaFile } from "@/lib/cms/media";
 
 export const dynamic = "force-dynamic";
@@ -12,10 +13,10 @@ export async function GET(req: Request, ctx: { params: Promise<{ name: string }>
   const file = await readMediaFile(name);
   if (!file) return new Response("Not found", { status: 404 });
 
-  const etag = `"${file.mtime.getTime().toString(36)}-${file.bytes.length.toString(36)}"`;
+  const etag = `"${createHash("sha256").update(file.bytes).digest("hex")}"`;
   const headers = new Headers({
     "Content-Type": MIME[file.kind],
-    "Cache-Control": "public, max-age=300, stale-while-revalidate=600",
+    "Cache-Control": "public, max-age=0, must-revalidate",
     ETag: etag,
     "X-Content-Type-Options": "nosniff",
     "Cross-Origin-Resource-Policy": "same-site",

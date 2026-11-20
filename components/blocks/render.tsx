@@ -1,5 +1,4 @@
 /* eslint-disable @next/next/no-img-element */
-import type { ReactNode } from "react";
 import { SmartLink } from "@/components/site/smart-link";
 import { BLOCK_SPECS, type Block, type BlockData, type BlockItem, type Issue, type PageLocale } from "@/lib/cms/blocks";
 import { safeSrc } from "@/lib/cms/links";

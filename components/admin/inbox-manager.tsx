@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Download, Mail, MailOpen, Trash2 } from "lucide-react";
+import Link from "next/link";
 import { Badge, Button, Card, api, cx, errorText, formatDate, useConfirm, useToast } from "./ui";
 
 export interface InboxEntry {
@@ -93,7 +94,7 @@ export function InboxManager({ initial }: { initial: InboxEntry[] }) {
           <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
             <p className="text-sm text-muted-foreground">{subs.length} subscriber{subs.length === 1 ? "" : "s"}. Each address is stored once.</p>
             {subs.length > 0 && (
-              <a href="/api/admin/inbox?export=newsletter" className="inline-flex items-center gap-2 rounded-xl border border-border bg-white px-4 py-2 text-sm font-medium hover:bg-muted"><Download className="h-4 w-4" /> Download CSV</a>
+              <Link href="/api/admin/inbox?export=newsletter" className="inline-flex items-center gap-2 rounded-xl border border-border bg-white px-4 py-2 text-sm font-medium hover:bg-muted"><Download className="h-4 w-4" /> Download CSV</Link>
             )}
           </div>
           {subs.length === 0 ? (

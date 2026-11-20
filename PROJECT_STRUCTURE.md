@@ -1,0 +1,227 @@
+# Project structure
+
+Annotated main folders (generated from the project; `node_modules`, `.next` and `data` omitted).
+
+```
+app/
+  favicon.ico
+  global-error.tsx
+  globals.css
+  layout.tsx
+  not-found.tsx
+  robots.ts
+  sitemap.ts
+  [locale]/
+    layout.tsx
+    not-found.tsx
+    page.tsx
+    [...rest]/
+      page.tsx
+    about/
+      page.tsx
+    contact/
+      page.tsx
+    gallery/
+      page.tsx
+    impact-stories/
+      page.tsx
+      [slug]/
+        page.tsx
+    make-a-difference/
+      page.tsx
+    programs/
+      page.tsx
+      [slug]/
+        page.tsx
+      agriculture/
+      child-protection/
+      climate-action/
+      disability-inclusion/
+      education/
+      health/
+      livelihood/
+      women-empowerment/
+      youth-development/
+  admin/
+    layout.tsx
+    (panel)/
+      layout.tsx
+      page.tsx
+      account/
+        page.tsx
+      branding/
+        page.tsx
+      content/
+        page.tsx
+      gallery/
+        page.tsx
+      links/
+        page.tsx
+      media/
+        page.tsx
+      messages/
+        page.tsx
+      navigation/
+        page.tsx
+      pages/
+        page.tsx
+        [id]/
+      programs/
+        page.tsx
+      settings/
+        page.tsx
+      users/
+        page.tsx
+    login/
+      page.tsx
+  api/
+    admin/
+      account/
+        route.ts
+      inbox/
+        route.ts
+      login/
+        route.ts
+      logout/
+        route.ts
+      media/
+        route.ts
+        [name]/
+      messages/
+        route.ts
+      pages/
+        route.ts
+        [id]/
+      session/
+        route.ts
+      settings/
+        route.ts
+      users/
+        route.ts
+        [id]/
+    contact/
+      route.ts
+    donate/
+    newsletter/
+      route.ts
+  media/
+    [name]/
+      route.ts
+components/
+  theme-provider.tsx
+  admin/
+    account-form.tsx
+    content-editor.tsx
+    forms.tsx
+    group-editor.tsx
+    inbox-manager.tsx
+    login-form.tsx
+    media.tsx
+    not-wired.tsx
+    page-editor.tsx
+    pages-list.tsx
+    shell.tsx
+    ui.tsx
+    users-manager.tsx
+  animations/
+  blocks/
+    render.tsx
+  contact/
+  donate/
+  gallery/
+  impact-stories/
+  layout/
+  programs/
+  sections/
+    about/
+    home/
+  shared/
+  site/
+    cards.tsx
+    contact-form.tsx
+    footer.tsx
+    gallery-explorer.tsx
+    header.tsx
+    hero-carousel.tsx
+    home-sections.tsx
+    language-switcher.tsx
+    logo.tsx
+    mobile-menu.tsx
+    nav-links.tsx
+    newsletter-form.tsx
+    page-bodies.tsx
+    prose.tsx
+    safe-image.tsx
+    smart-link.tsx
+    ui.tsx
+  ui/
+lib/
+  fonts.ts
+  i18n-request.ts
+  i18n.ts
+  seo.ts
+  utils.ts
+  cms/
+    api.ts
+    audit.ts
+    auth.ts
+    blocks.ts
+    defaults.ts
+    inbox.ts
+    link-slots.ts
+    links.ts
+    media.ts
+    messages-diff.ts
+    messages.ts
+    page-data.ts
+    pages.ts
+    password.ts
+    paths.ts
+    public-form.ts
+    rate-limit.ts
+    runtime.ts
+    schemas.ts
+    session-token.ts
+    store.ts
+    throttle.ts
+    users.ts
+    wiring.ts
+  site/
+    metadata.ts
+    page.ts
+    site.ts
+    t.ts
+config/
+  contact.ts
+  footer.ts
+  gallery.ts
+  logo.ts
+  menu.ts
+  partners.ts
+  programs.ts
+  site.ts
+  testimonials.ts
+locales/
+  en.json
+  fr.json
+scripts/
+  admin-cli.mjs
+docs/
+  .gitkeep
+  ADMIN.md
+  ADMIN_WIRING.md
+  V1_CHECKLIST.md
+types/
+  .gitkeep
+  content.ts```
+
+## Key files
+
+* `lib/site/site.ts` — `getSite(locale)`: merged texts + settings + editable buttons + menu, used by every public page
+* `lib/cms/store.ts` — the only place that reads/writes the admin data folder (swap it to use a database)
+* `lib/cms/schemas.ts` — every editable setting and its validation
+* `lib/cms/link-slots.ts` — the list of editable buttons
+* `lib/cms/blocks.ts`, `lib/cms/pages.ts` — page builder (blocks, completeness per language, publishing)
+* `components/site/page-bodies.tsx`, `home-sections.tsx` — the public pages
+* `app/[locale]/[...rest]/page.tsx` — serves pages created in the dashboard
+* `middleware.ts` — language routing + first gate for `/admin`

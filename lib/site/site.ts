@@ -2,7 +2,7 @@ import { cache } from "react";
 import { getEffectiveSettings } from "@/lib/cms/runtime";
 import { getMergedMessages } from "@/lib/cms/messages";
 import { listNavPages } from "@/lib/cms/pages";
-import { LINK_SLOTS, type LinkSlotId } from "@/lib/cms/link-slots";
+import { LINK_SLOTS } from "@/lib/cms/link-slots";
 import type { PageLocale } from "@/lib/cms/blocks";
 import { makeT } from "./t";
 import type { NavEntry, Site } from "./views";

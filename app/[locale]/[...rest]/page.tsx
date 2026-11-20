@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getCurrentUser } from "@/lib/cms/auth";
 import { PAGE_LOCALES, type PageLocale } from "@/lib/cms/blocks";
-import { findPageForLocale, getPageBySlug, pageReadiness } from "@/lib/cms/pages";
+import { findPageForLocale, pageReadiness } from "@/lib/cms/pages";
 import { PageView } from "@/components/blocks/render";
 
 /**

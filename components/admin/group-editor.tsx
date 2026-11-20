@@ -119,7 +119,8 @@ export function GroupEditor(props: ObjectMode | ListMode) {
     setErrors((e) => {
       const k = prefix ? `${prefix}.${name}` : name;
       if (!(k in e)) return e;
-      const { [k]: _gone, ...rest } = e;
+      const rest = { ...e };
+      delete rest[k];
       return rest;
     });
   };
