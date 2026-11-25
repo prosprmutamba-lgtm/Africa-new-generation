@@ -45,6 +45,7 @@ export const programs: ProgramConfigItem[] = [
     slug: "health",
     key: "health",
     hasDedicatedPage: false,
+    image: "/images/programs/health/hero.jpg",
   },
   {
     slug: "livelihood",
