@@ -351,7 +351,7 @@ export function StoryBody({ site, slug }: { site: Site; slug: string }) {
 export function GalleryBody({ site }: { site: Site }) {
   const { t, settings } = site;
   const items: GalleryEntry[] = settings.gallery
-    .filter((g) => g.visible)
+    .filter((g) => g.visible && g.src.trim())
     .map((g) => ({ id: g.id, type: g.type, category: g.category, src: g.src, thumbnail: g.thumbnail, alt: g.alt, width: g.width, height: g.height, videoUrl: g.videoUrl }));
   return (
     <>

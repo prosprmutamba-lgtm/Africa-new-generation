@@ -147,7 +147,7 @@ export function ProgramsForm({ data, titles }: { data: SettingsData; titles: Rec
 
 export function GalleryForm({ data }: { data: SettingsData }) {
   const fields: FieldDef[] = [
-    { name: "src", label: "Image", type: "image", required: true, syncSize: { width: "width", height: "height" }, hint: "For a video, use its cover image here." },
+    { name: "src", label: "Image", type: "image", syncSize: { width: "width", height: "height" }, hint: "For a video, use its cover image here. You can remove the image while keeping this gallery entry." },
     { name: "type", label: "Type", type: "select", options: [{ value: "photo", label: "Photo" }, { value: "video", label: "Video" }] },
     { name: "category", label: "Category", placeholder: "education", hint: "Lowercase word, e.g. education, health, community." },
     { name: "alt", label: "Description (for screen readers)", full: true, hint: "Say what the picture shows." },

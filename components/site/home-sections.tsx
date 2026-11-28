@@ -129,7 +129,7 @@ export function ImpactPreview({ site }: { site: Site }) {
 
 export function GalleryPreview({ site }: { site: Site }) {
   const { t, locale, settings } = site;
-  const items = settings.gallery.filter((g) => g.visible && g.type === "photo").slice(0, 6);
+  const items = settings.gallery.filter((g) => g.visible && g.type === "photo" && g.src.trim()).slice(0, 6);
   if (items.length === 0) return null;
   return (
     <Section tone="dark" label={t("home.galleryPreview.title")}>

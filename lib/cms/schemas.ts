@@ -145,7 +145,7 @@ export const gallerySchema = z
         id,
         type: z.enum(["photo", "video"]),
         category: z.string().trim().regex(/^[a-z0-9-]{1,40}$/, "Use lowercase letters, numbers and dashes."),
-        src: requiredImage,
+        src: imagePath,
         thumbnail: imagePath,
         alt: text(200).min(1, "Describe the image (used by screen readers)."),
         width: z.coerce.number().int().min(50).max(10000),
